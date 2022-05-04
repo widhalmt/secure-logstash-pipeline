@@ -1,5 +1,7 @@
 # secure-logstash-pipeline
 
+**This pipeline is deprecated and superseded by single pipelines for each of the managed applications**
+
 ## Input and Output ##
 
 This pipeline does not provide inputs or outputs so you can configure whatever you need. Files named `input.conf` and `output.conf` will not interfere with updates via git, so name your files accordingly.
